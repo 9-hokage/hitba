@@ -1,6 +1,6 @@
 ## Hitba -  muslim dating app.
 
-# Proporsal
+# Proposal
 
 
 ## Alternative/Market Research:
